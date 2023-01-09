@@ -290,10 +290,6 @@ input[type='submit']:hover {
   background: url('./images/menu_FILL0_wght400_GRAD0_opsz48.svg') no-repeat fixed left;
 }
 
-img {
-  pointer-events: none;
-}
-
 #dashboard:hover {
   cursor: pointer;
   transform: scale(1.1);
