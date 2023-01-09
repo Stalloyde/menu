@@ -1,9 +1,11 @@
 {
   "name": "stalloyde-menu",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "A template for my preferred webpack set up. New projects can start here",
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "keywords": [],
   "author": "stalloyde",
   "license": "ISC",
