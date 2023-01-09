@@ -3,7 +3,7 @@ Practice package;
 Download this package by running `npm install stalloyde-menu` in your project's parent directory.
 Then import the function in your JS file using `import {createDropDownMenu} from 'stalloyde-menu';
 
-![alt text](https://github.com/Stalloyde/menu/blob/main/menu_FILL0_wght400_GRAD0_opz48.svg?raw=true)
+![menu hamburger icon](src/images/menu_FILL0_wght400_GRAD0_opsz48.svg)
 
 Input this into your html:
 <div class="title">
