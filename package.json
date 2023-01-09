@@ -1,7 +1,7 @@
 {
   "name": "stalloyde-menu",
   "version": "1.0.5",
-  "description": "A template for my preferred webpack set up. New projects can start here",
+  "description": "A template for simple drop down menu header",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
