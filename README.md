@@ -3,12 +3,13 @@ Practice package;
 Download this package by running `npm install stalloyde-menu` in your project's parent directory.
 Then import the function in your JS file using `import {createDropDownMenu} from 'stalloyde-menu';
 
+Download this svg icon:
 ![menu hamburger icon](src/images/menu_FILL0_wght400_GRAD0_opsz48.svg)
 
 Input this into your html:
 <div class="title">
   <div id="dashboard">
-    <img src="<%=require('/home/stalloyde/repos/to-do-list/src/images/menu_FILL0_wght400_GRAD0_opsz48.svg')%>"
+    <img src="<%=require('[path to menu hamburger icon]')%>"
       height="50" width="50" />
   </div>
   <div class="dropdown-menu">
