@@ -34,12 +34,12 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Stalloyde/to-do-list.git"
+    "url": "git+https://github.com/Stalloyde/menu.git"
   },
   "bugs": {
-    "url": "https://github.com/Stalloyde/to-do-list/issues"
+    "url": "https://github.com/Stalloyde/menu/issues"
   },
-  "homepage": "https://github.com/Stalloyde/to-do-list#readme",
+  "homepage": "https://github.com/Stalloyde/menu#readme",
   "dependencies": {
     "date-fns": "^2.29.3"
   }
